@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: rgb(238, 238, 146);
+}
+
+img, iframe, video{
+    border: 6px solid rgb(104, 89, 61);
+    border-radius: 3px;
+}
